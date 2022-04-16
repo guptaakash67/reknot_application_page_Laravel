@@ -15,7 +15,7 @@ class excontroller extends Controller
         $req->validate([
             'username'=>'required',
             'Age'=>'required',
-            'MoblieNo'=>'required|numeric|max:10|min:10',
+            'MoblieNo'=>'required|numeric|max:10',
             'email'=>'required|email',
             'college_name'=>'required',
             'gender'=>'required',
