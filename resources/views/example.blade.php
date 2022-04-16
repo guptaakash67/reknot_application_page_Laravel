@@ -3,7 +3,7 @@
 <title>Apply for the internship at reknot solutions Pvt Ltd.</title>
 </head>
 <body background="img/15.jpg">
-<p>hii</p>
+
 
    
 @if(Session::has('message'))
